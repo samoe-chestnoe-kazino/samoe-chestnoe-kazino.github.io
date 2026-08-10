@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: samoe-chestnoe-kazino.github.io
+Sitemap: https://samoe-chestnoe-kazino.github.io/sitemap.xml
